@@ -1,7 +1,7 @@
 ﻿		ZELDA_LIKE
 
 	- Realisation du système de création de cartes 
-	- Réalisation du système de deplacements des acteurs 
+	- Réalisation du système des animations du jeu
 	- Réalisation des opérations de gestion du jeu
 	- Conception d'une BDD des éléments de jeu 
 	- Réalisation d'une trame scénaristique
