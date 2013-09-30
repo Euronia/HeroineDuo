@@ -1,0 +1,19 @@
+
+		ZELDA_LIKE
+
+	- Realisation du système de création de cartes 
+	- Réalisation du système de deplacements des acteurs 
+	- Réalisation des opérations de gestion du jeu
+	- Conception d'une BDD des éléments de jeu 
+	- Réalisation d'une trame scénaristique
+	- Conception d'une base d'éléments graphiques 
+
+	
+
+	- Mode coopération :
+
+		- Split d'écran 
+		- Focus sur un personnage et perte de vision sur l'autre si sortie de l'écran
+		- Dézoom ( avec un dézoom maximal ) 
+	
+	
