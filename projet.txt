@@ -1,19 +1,18 @@
-ï»¿		ZELDA_LIKE
+		ZELDA_LIKE
 
-	- Realisation du systÃ¨me de crÃ©ation de cartes 
-	- RÃ©alisation du systÃ¨me des animations du jeu 
-	- RÃ©alisation des opÃ©rations de gestion du jeu
-	- Conception d'une BDD des Ã©lÃ©ments de jeu 
-	- RÃ©alisation d'une trame scÃ©naristique
-	- Conception d'une base d'Ã©lÃ©ments graphiques 
+	- Realisation du système de création de cartes 
+	- Réalisation du système des animations du jeu 
+	- Réalisation des opérations de gestion du jeu
+	- Conception d'une BDD des éléments de jeu 
+	- Réalisation d'une trame scénaristique
+	- Conception d'une base d'éléments graphiques 
 	- Audio
 	
 
-	- Mode coopÃ©ration :
+	- Mode coopération :
 
-		- Split d'Ã©cran 
-		- Focus sur un personnage et perte de vision sur l'autre si sortie de l'Ã©cran
-		- DÃ©zoom ( avec un dÃ©zoom maximal ) 
+		- Split d'écran 
+		- Focus sur un personnage et perte de vision sur l'autre si sortie de l'écran
+		- Dézoom ( avec un dézoom maximal ) 
 	
-	
-maxence
+
