@@ -1,5 +1,4 @@
-
-	Nomenclature d'écriture 
+			Nomenclature d'écriture 
 
 	- Nom de fichiers : 
 		nom_de_fichier.cpp/hpp
