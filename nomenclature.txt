@@ -1,0 +1,14 @@
+
+	Nomenclature d'écriture 
+
+	- Nom de fichiers : 
+		nom_de_fichier.cpp/hpp
+
+	- Variables : 
+		andyEstNul
+	
+	- Types :
+		T_AndyEstNul
+	
+	-Fonctions :
+		andyNul() 
