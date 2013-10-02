@@ -1,0 +1,32 @@
+Gestion monstres : 
+
+	T_DataMonstres 
+	{ 
+		int id ; 
+		int max_hp ; 
+		dmg ; 
+	}
+	
+	T_Monstre 
+	{
+	 T_DataMonstres * 
+	 hp 
+	 pos 
+	 timer atk 
+	 } 
+
+	carte  ?  matrice ou case contiennent : 
+						- afficher et collision (type) 
+						-  hauteur 
+
+	
+
+	Deplacement (anim) 
+	Utilisation Objet (Anim ) 
+	Menu Inventaire 
+	Roulade
+	Ennemis Drop 
+	Decor (Graphismes ) 
+
+
+	BLASTAAAAAAAAAAAAA ! 
